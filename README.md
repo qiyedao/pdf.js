@@ -70,6 +70,7 @@ PDF files using a `file://` URL. Run:
 and then you can open:
 
 + http://localhost:8888/web/viewer.html
++ http://localhost:8888/web/viewer.html?file=http://localhost:8888/web/compressed.tracemonkey-pldi-09.pdf
 
 Please keep in mind that this requires a modern and fully up-to-date browser; refer to [Building PDF.js](https://github.com/mozilla/pdf.js/blob/master/README.md#building-pdfjs) for non-development usage of the PDF.js library.
 
