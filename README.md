@@ -77,7 +77,8 @@ Please keep in mind that this requires a modern and fully up-to-date browser; re
 It is also possible to view all test PDF files on the right side by opening:
 
 + http://localhost:8888/test/pdfs/?frame
-
+## examples
+pdf.js/examples 
 ## Building PDF.js
 
 In order to bundle all `src/` files into two production scripts and build the generic
